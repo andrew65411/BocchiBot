@@ -3,7 +3,7 @@
 
 # **BocchiBot**
 
-> BocchiBot is a multipurpose WhatsApp bot using wa-automate-nodejs library!
+> BocchiBot bot de whats
 >
 >
 
